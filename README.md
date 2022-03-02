@@ -1,7 +1,3 @@
-# First 
-
-Learning is the best way to transform yourself
-
-It's going to be really fast, but we are going to do commit again 
-
-its 2nd time of commit. 
+# Starting with the task
+Here first we have created the CNN model of the car from the training part and 
+later we use this model to connect through the socketio to the simulator 
